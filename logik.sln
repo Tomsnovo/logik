@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logik", "logik\logik.csproj", "{9760B4AB-0060-4C52-996C-C26C92606767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9760B4AB-0060-4C52-996C-C26C92606767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9760B4AB-0060-4C52-996C-C26C92606767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9760B4AB-0060-4C52-996C-C26C92606767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9760B4AB-0060-4C52-996C-C26C92606767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43462FD-58A4-4BD4-8335-1481DF01BB14}
+	EndGlobalSection
+EndGlobal
